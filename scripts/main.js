@@ -1,0 +1,1 @@
+const HI = alert('hello,world');
